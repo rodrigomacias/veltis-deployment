@@ -1,0 +1,1 @@
+export default function Home() {\n  return (\n    <div>\n      <h1>Veltis Backend</h1>\n      <p>API is running</p>\n    </div>\n  );\n}
