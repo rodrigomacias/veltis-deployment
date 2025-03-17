@@ -1,0 +1,1 @@
+function App() {\n  return (\n    <div className=\"App\">\n      <h1>Veltis Frontend</h1>\n      <p>Application is running</p>\n    </div>\n  );\n}\n\nexport default App;
